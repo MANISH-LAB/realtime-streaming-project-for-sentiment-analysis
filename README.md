@@ -1,5 +1,5 @@
 # realtime-streaming-project-for-sentiment-analysis
- Spark Streaming, Kafka, Cassandra End to End Project 
+<p> Spark Streaming, Kafka, Cassandra End to End Project 
 
 
 Version
@@ -88,4 +88,4 @@ Spark Kafka Cassandra Streaming Code
 
 Start the Spark Shell with below command 
 
-bin/spark-shell --packages "com.datastax.spark:spark-cassandra-connector_2.11:2.0.2","org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.0"
+bin/spark-shell --packages "com.datastax.spark:spark-cassandra-connector_2.11:2.0.2","org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.0"</p>
